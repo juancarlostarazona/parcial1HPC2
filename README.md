@@ -4,11 +4,10 @@
 <br>
 <i><b>Autor:</b></i>
 <li> Juan Carlos Tarazona Contreras</li>
-<li> Diana Carolina Quintero Bedoya</li>
 
-<i><b>Docente:</b></i> Camilo Rodriguez.
+<i><b>Docente:</b></i> jhon corredor.
 <br>
-<i><b>Asignatura:</b></i> Big data y ing de datos
+<i><b>Asignatura:</b></i> hpc2
 <br>
 <i><b>TEMA:</i> PARCIAL 2</b>
 <br>
