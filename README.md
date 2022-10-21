@@ -4,14 +4,15 @@
 <br>
 <i><b>Autor:</b></i>
 <li> Juan Carlos Tarazona Contreras</li>
+<li> Diana Carolina Quintero Bedoya</li>
 
-<i><b>Docente:</b></i> John Corredor, PhD.
+<i><b>Docente:</b></i> Camilo Rodriguez.
 <br>
-<i><b>Asignatura:</b></i> Métricas de rendimientos HPC
+<i><b>Asignatura:</b></i> Big data y ing de datos
 <br>
-<i><b>TEMA:</i> PARCIAL 1</b>
+<i><b>TEMA:</i> PARCIAL 2</b>
 <br>
-09/2022
+10/2022
 <br>
 </FONT>
 </div>
